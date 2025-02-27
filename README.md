@@ -1,6 +1,6 @@
 # FASTA Sequence Analysis with Streamlit
 
-This Streamlit app allows users to analyze DNA sequences from FASTA files. It provides sequence statistics, GC content, nucleotide frequency visualization, RNA transcription and
+This Streamlit app allows users to analyze DNA sequences from FASTA files. It provides sequence statistics, GC content, transcribed RNA bases, reverse complementary bases, and nucleotide frequency visualization.
 
 ## Features
 - Upload a custom FASTA file or use the default **E. coli genome**.
