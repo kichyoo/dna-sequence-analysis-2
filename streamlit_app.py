@@ -6,11 +6,6 @@ import io
 
 st.title("FASTA Sequence Analysis")
 
-# Load a default FASTA file
-def load_default_fasta():
-    with open("ecoli_genome.fasta", "r") as file:
-        return file.read()
-
 # Handle file upload
 if st.button("Use Default FASTA File"):
     uploaded_file = "ecoli_genome.fasta"
